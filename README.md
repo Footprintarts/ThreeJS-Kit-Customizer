@@ -1,4 +1,4 @@
-# <img src="./public/logo.png" alt="Three.js Football Kit Customization Project" width="60"> Three.js Football Kit Customization - Open Source
+# <img src="./public/logo.png" alt="Three.js Logo" width="60"> Three.js Football Kit Customization - Open Source
 
 ## ⚠️ Disclaimer
 
@@ -7,6 +7,8 @@ This project is a fan-made demonstration and is not affiliated with or endorsed 
 # **⚽ Interactive 3D Football Kit Customization with Three.js**
 
 This project demonstrates how to create an interactive 3D football kit customization experience using Three.js, React Three Fiber, and other modern web technologies. Users can explore various football kits, change their colors, and interact with the 3D scene.
+
+<img src="./public/images/project.png" alt="Three.js Football Kit Customization Project" width="100%">
 
 ## ©️ Model Credits
 
@@ -54,8 +56,8 @@ If you find this project helpful, please consider:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository URL]
-    cd [repository directory]
+    git clone https://github.com/Footprintarts/ThreeJS-Kit-Customizer.git
+    cd your project
     ```
 
 2.  **Install dependencies:**
